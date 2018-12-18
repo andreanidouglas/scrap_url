@@ -1,4 +1,4 @@
-dists/*
+dist/*
 build/*
 .vscode
 venv
