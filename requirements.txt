@@ -6,5 +6,5 @@ future==0.18.3
 idna==3.7
 macholib==1.11
 pefile==2018.8.8
-requests==2.31.0
+requests==2.32.0
 urllib3==1.26.18
